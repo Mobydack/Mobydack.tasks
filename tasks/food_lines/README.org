@@ -1,0 +1,30 @@
+#+title: Food lines
+
+There are $N$ lines in the store. Then $M$ people arrive, occupying places in the shortest line. We need to count the number of people in each line.
+
+** Inputs
+1. List of food lines with the number of people
+2. Number of people arriving
+
+#+Name: Inputs
+#+BEGIN_SRC
+2 4 5
+4
+#+END_SRC
+
+** Outputs
+Food lines after the distribution of people
+#+Name: Outputs
+#+BEGIN_SRC
+5 5 5
+#+END_SRC
+
+** Constraints
+- $1 \leq N \leq 100$
+- $1 \leq M \leq 100$
+- $1 \leq a_i \leq 100, i = 1,2,\dotsb,N$
+
+** Solutions
+*** C lang
+- [[./langs/c/food_lines.c][Soultion]]
+- [[./langs/c/food_lines_test.c][Tests]]

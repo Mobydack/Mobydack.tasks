@@ -1,0 +1,8 @@
+services:
+  c_tests_env:
+    platform: "linux/amd64"
+    build:
+      context: .
+      target: c_lang
+    volumes:
+      - .:/app

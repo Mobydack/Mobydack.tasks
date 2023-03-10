@@ -1,0 +1,5 @@
+#+title: Notes
+[[https://github.com/Mobydack/Mobydack.notes/actions/workflows/test.yaml][file:https://github.com/Mobydack/Mobydack.notes/actions/workflows/test.yaml/badge.svg]]
+
+** Tasks
+- [[./tasks/food_lines/README.org][Food lines]]
