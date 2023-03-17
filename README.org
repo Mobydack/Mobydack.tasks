@@ -3,3 +3,5 @@
 
 ** Tasks
 - [[./tasks/food_lines/README.org][Food lines]]
+- [[./tasks/is_unique_array/README.org][Unique array]]
+- [[./tasks/snowflakes/README.org][Snowflakes]]
