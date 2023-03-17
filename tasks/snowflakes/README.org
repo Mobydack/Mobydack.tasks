@@ -1,0 +1,16 @@
+#+title Snwoflakes
+
+** Input
+- First line is the number of snowflakes
+- Next Lines are the snowflakes presentations as array of number
+
+#+Name: Inputs
+#+BEGIN_SRC
+2
+1 2 3 4 5 6
+4 5 6 1 2 3
+#+END_SRC
+
+** Output
+- *No two snowflakes are like* - If all snowflakes are distinct
+- *Twin snowflakes found* - If their is a pair possibly identical snowflakes

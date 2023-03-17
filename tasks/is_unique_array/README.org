@@ -1,0 +1,22 @@
+#+title Is unique array
+Write functions wich should return 1 (true) if array don't contains duplicate and 0 (false) if array contains duplicate;
+
+** Inputs
+Array of numbers
+#+Name Inputs
+#+BEGIN_SRC
+1 2 3 4
+#+END_SRC
+
+** Outputs
+- 1 - true
+- 0 - false
+#+Name Outputs
+#+BEGIN_SRC
+0
+#+END_SRC
+
+** Solutions
+*** C lang
+- [[./langs/c/is_unique_array.c][Solution]]
+- [[./langs/c/is_unique_array_test.c][Tests]]
