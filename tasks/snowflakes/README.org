@@ -14,3 +14,8 @@
 ** Output
 - *No two snowflakes are like* - If all snowflakes are distinct
 - *Twin snowflakes found* - If their is a pair possibly identical snowflakes
+
+** Solutions
+*** C lang
+- [[./langs/c/snowflakes.c][Solution]]
+- [[./langs/c/snowflakes_test.c][Tests]]
