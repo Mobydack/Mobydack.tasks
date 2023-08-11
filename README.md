@@ -3,7 +3,7 @@
 
 ## Notes
 ### Math
-- [Herons method (RUS)](./notes/math/heron_method.org]
+- [Herons method (RUS)](./notes/math/heron_method.org)
 
 ## Tasks
 - [Food lines](./tasks/food_lines/README.org)
